@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Reetah589/Social-Net-Eighteen/issues"
   },
-  "homepage": "https://github.com/Reetah589/Social-Net-Eighteen#readme"
+  "homepage": "https://github.com/Reetah589/Social-Net-Eighteen#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
 }
