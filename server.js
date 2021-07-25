@@ -16,3 +16,4 @@ mongoose.set('debug', true);
 
 app.listen(PORT, () => console.log(`🌍 Connected on localhost:${PORT}`));
 
+//Starting the script failed. This is probably not a problem with npm and need to add more coding.
